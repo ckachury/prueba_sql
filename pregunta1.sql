@@ -1,0 +1,2 @@
+--Pregunta 1: numero de evaluaciones por curso
+SELECT c.id_curso, c.nombre, count(p.id_test) from prueba p inner join curso c on p.curso_id_curso=c.id_curso group by p.curso_id_curso, c.id_curso, c.nombre;
