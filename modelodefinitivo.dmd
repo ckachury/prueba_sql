@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelodefinitivo" id="073C370C-012D-2CD6-5675-D769A943635B" version="3.5">
+<createdBy>Carla Achury</createdBy>
+<createdTime>2020-03-14 21:22:38 UTC</createdTime>
+<ownerDesignName>modelodefinitivo</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>073C370C-012D-2CD6-5675-D769A943635B</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="60D44C39-757A-FADB-4A40-9D49B69A3FBD">
+<designStoragePath>C:\export</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
